@@ -4,7 +4,7 @@
 <br>
 
 
-**Project Requirements (as received)**
+## Project Requirements (as received)
 1. REST API that exposes CRUD methods on classes Foo and FooBar
 2. All methods on API require user to be securely authenticated and authorized (HTTPS)
 3. Provide a login API through which a user can attempt to login.
