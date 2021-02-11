@@ -14,7 +14,7 @@ User foo has permission to invoke methods on Foo.
 <br>
 User foobar has permission to invoke methods on FooBar
 
-<br><br>
+<br>
 Authentication errors must be handled gracefully.
 <br>
 Permission exceptions are handled gracefully.
