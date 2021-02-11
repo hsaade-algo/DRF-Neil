@@ -10,10 +10,13 @@
 3. Provide a login API through which a user can attempt to login.
 4. Registered users: foo and foobar.
 
-User foo has permission to invoke methods on Foo
+User foo has permission to invoke methods on Foo.
+<br>
 User foobar has permission to invoke methods on FooBar
 
+<br><br>
 Authentication errors must be handled gracefully.
+<br>
 Permission exceptions are handled gracefully.
 
 
