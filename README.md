@@ -23,7 +23,7 @@ Permission exceptions are handled gracefully.
 git clone https://github.com/hsaade-algo/DRF-Neil.git
 cd drf-neil
 python -m venv venv
-venv\\scripts\\activate
+venv\scripts\activate
 pip install -r requirements.txt
 
 
